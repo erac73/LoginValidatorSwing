@@ -1,6 +1,6 @@
 # LoginValidatorSwing
 
-## Descripción!
+## Descripción
 LoginValidatorSwing es una aplicación de escritorio desarrollada con Java Swing que implementa un sistema de autenticación seguro para usuarios. Utiliza una base de datos MySQL gestionada a través de phpMyAdmin para almacenar las credenciales de los usuarios.
 
 ### Características principales
